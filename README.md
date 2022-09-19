@@ -21,3 +21,4 @@ So we do is take the partial derivative of cost with respect to a coefficient of
 [Credit-javapoint.com](https://www.javatpoint.com/gradient-descent-in-machine-learning)
 
 And thats how we define our all coefficient ready to be suited in multivariable regression.
+[The code](https://github.com/EESHAN-ANAND/Mutivariable-Regression/blob/main/gradient%20descent.ipynb) for gradient descent as well the [code](https://github.com/EESHAN-ANAND/Mutivariable-Regression/blob/main/multivariable%20regression%20from%20sklearn.ipynb) of multivariable regression using sklearn is present in the repository.
